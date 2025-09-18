@@ -1,3 +1,5 @@
 .ipynb_checkpoints/
 notebooks/01-masks/*.npy
 notebooks/temp/*.png
+# pixi environments
+.pixi
